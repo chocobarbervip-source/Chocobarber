@@ -13,4 +13,4 @@ Sube la carpeta a GitHub → en vercel.com "Import project" → agrega las misma
 ## 5. Primer uso
 Panel → *Horarios y bloqueos*: agrega días y horas, define minutos por cita y marca "Agenda habilitada". Hasta entonces la web muestra "agenda pendiente".
 ## Editar textos y fotos
-`lib/config.ts` (bio y especialidades de Aragon, fotos de la galería, enlaces). Fotos en `public/img/`.
+`lib/config.ts` (bio y especialidades de Aragon, fotos de la galería, enlaces). Fotos en `public/img/`. 
