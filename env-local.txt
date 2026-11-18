@@ -1,5 +1,0 @@
-NEXT_PUBLIC_SUPABASE_URL=https://anyknwsjwdzdnnxsljds.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_5FySGi7tmltfnOUt_AJJnA_RE_H-K7Z
-RESEND_API_KEY=
-OWNER_EMAIL=chocobarbervip@gmail.com
-MAIL_FROM=
